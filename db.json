@@ -1,14 +1,36 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "athletes": [
+    {
+      "idathlete": 184,
+      "Name": "Regoli Massimo",
+      "Birth": "1963-12-12",
+      "Sex": "M",
+      "CardNo": 160084608,
+      "note": null,
+      "expcard": "2016-09-30",
+      "expcert": "2016-09-01",
+      "gcm": "",
+      "username": "regoli",
+      "password": "password",
+      "picture": "http://www.atleticatusculum.it/picture/regoli_massimo_.jpg",
+      "email": "regoli@uniroma2.it",
+      "enabled": 1
+    },
+    {
+      "idathlete": 185,
+      "Name": "Billy Ballo",
+      "Birth": "1970-12-17",
+      "Sex": "M",
+      "CardNo": 160084678,
+      "note": null,
+      "expcard": "2017-04-30",
+      "expcert": "2018-05-01",
+      "gcm": "",
+      "username": "billy",
+      "password": "ballo",
+      "picture": "http://www.atleticatusculum.it/picture/regoli_massimo_.jpg",
+      "email": "billyb@uniroma2.it",
+      "enabled": 1
+    }
+  ]
 }
