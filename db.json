@@ -13,7 +13,7 @@
       "username": "giuseppe",
       "password": "lasco",
       "picture": "",
-      "email": "giuseppe.lasco@atleta.com",
+      "email": "giuseppe.lasco@atleta.com"
     },
     {
       "idathlete": 002,
@@ -28,7 +28,7 @@
       "username": "francesco",
       "password": "gelsomino",
       "picture": "",
-      "email": "francesco.gelsomino@atleta.com",
+      "email": "francesco.gelsomino@atleta.com"
     },
     {
       "idathlete": 003,
@@ -43,12 +43,12 @@
       "username": "chiara",
       "password": "verardo",
       "picture": "",
-      "email": "chiara.verardo@atleta.com",
+      "email": "chiara.verardo@atleta.com"
     },
     {
       "idathlete": 004,
-      "Name": "Laura",
-      "Birth": "Bianchi",
+      "Name": "Laura Bianchi",
+      "Birth": "20-09-1996",
       "Sex": "F",
       "CardNo": 160084455,
       "note": null,
@@ -58,7 +58,7 @@
       "username": "laura",
       "password": "bianchi",
       "picture": "",
-      "email": "laura.bianchi@atleta.com",
+      "email": "laura.bianchi@atleta.com"
     },
     {
       "idathlete": 005,
@@ -73,7 +73,7 @@
       "username": "cristiano",
       "password": "del verde",
       "picture": "",
-      "email": "cristianodelverde@atleta.com",
+      "email": "cristianodelverde@atleta.com"
     },
     {
       "idathlete": 006,
@@ -88,7 +88,7 @@
       "username": "angelo",
       "password": "duro",
       "picture": "",
-      "email": "angelo.duro@atleta.com",
+      "email": "angelo.duro@atleta.com"
     },
     {
       "idathlete": 007,
@@ -103,7 +103,7 @@
       "username": "emanuele",
       "password": "paiano",
       "picture": "",
-      "email": "emanuele.paiano@atleta.com",
+      "email": "emanuele.paiano@atleta.com"
     },
     {
       "idathlete": 008,
@@ -118,7 +118,7 @@
       "username": "diletta",
       "password": "cassiano",
       "picture": "",
-      "email": "diletta.cassiano@atleta.com",
+      "email": "diletta.cassiano@atleta.com"
     },
     {
       "idathlete": 009,
@@ -133,7 +133,7 @@
       "username": "marco",
       "password": "pera",
       "picture": "",
-      "email": "marco.pera@atleta.com",
+      "email": "marco.pera@atleta.com"
     },
     {
       "idathlete": 010,
@@ -148,7 +148,7 @@
       "username": "mariaclaudia",
       "password": "ferreri",
       "picture": "",
-      "email": "mariaclaudiaferreri@atleta.com",
+      "email": "mariaclaudiaferreri@atleta.com"
     },
     {
       "idathlete": 011,
@@ -163,7 +163,7 @@
       "username": "marcello",
       "password": "peluso",
       "picture": "",
-      "email": "marcello.peluso@atleta.com",
+      "email": "marcello.peluso@atleta.com"
     },
     {
       "idathlete": 012,
@@ -178,7 +178,7 @@
       "username": "giulia",
       "password": "casarano",
       "picture": "",
-      "email": "giulia.casarano@atleta.com",
+      "email": "giulia.casarano@atleta.com"
     },
     {
       "idathlete": 013,
@@ -193,7 +193,7 @@
       "username": "roberto",
       "password": "longo",
       "picture": "",
-      "email": "roberto.longo@atleta.com",
+      "email": "roberto.longo@atleta.com"
     },
     {
       "idathlete": 014,
@@ -208,7 +208,7 @@
       "username": "silvia",
       "password": "catanzaro",
       "picture": "",
-      "email": "silvia.catanzaro@atleta.com",
+      "email": "silvia.catanzaro@atleta.com"
     },
     {
       "idathlete": 015,
@@ -223,7 +223,7 @@
       "username": "mirko",
       "password": "botrugno",
       "picture": "",
-      "email": "mirko.botrugno@atleta.com",
+      "email": "mirko.botrugno@atleta.com"
     },
     {
       "idathlete": 016,
@@ -238,7 +238,7 @@
       "username": "alessio",
       "password": "greco",
       "picture": "",
-      "email": "alessio.greco@atleta.com",
+      "email": "alessio.greco@atleta.com"
     },
     {
       "idathlete": 017,
@@ -253,7 +253,7 @@
       "username": "elisa",
       "password": "palma",
       "picture": "",
-      "email": "elisa.palma@atleta.com",
+      "email": "elisa.palma@atleta.com"
     },
     {
       "idathlete": 018,
@@ -268,7 +268,7 @@
       "username": "filippo",
       "password": "rotelli",
       "picture": "",
-      "email": "filippo.rotelli@atleta.com",
+      "email": "filippo.rotelli@atleta.com"
     },
     {
       "idathlete": 019,
@@ -283,7 +283,7 @@
       "username": "antonio",
       "password": "levoli",
       "picture": "",
-      "email": "antonio.levoli@atleta.com",
+      "email": "antonio.levoli@atleta.com"
     },
     {
       "idathlete": 020,
@@ -298,7 +298,7 @@
       "username": "caterina",
       "password": "bissano",
       "picture": "",
-      "email": "caterina.bissano@atleta.com",
+      "email": "caterina.bissano@atleta.com"
     }
   ]
 }
