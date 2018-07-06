@@ -7,7 +7,7 @@
       "Sex": "M",
       "CardNo": 160084608,
       "note": null,
-      "nationality": "iVBORw0KGgoAAAANSUhEUgAAAB4AAAAUCAYAAACaq43EAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpBMzVCNDMyMDE3ODAxMUUyODY3Q0FBOTFCQzlGNjlDRiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpBMzVCNDMyMTE3ODAxMUUyODY3Q0FBOTFCQzlGNjlDRiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkEzNUI0MzFFMTc4MDExRTI4NjdDQUE5MUJDOUY2OUNGIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkEzNUI0MzFGMTc4MDExRTI4NjdDQUE5MUJDOUY2OUNGIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+oQE2+QAAAJNJREFUeNpiZJjk9pSBgUEKiD8zYAM/PjHy8Ir9fZK47D8/OzcLUOQ/A3bA+O/nz79Xnf0Yftx7wMwiJIhLHS8QP2OBMhiQaGzgH5RmYsAP/kMxIXW8hBSgG0oNNUT5gGZg1OJRi0ctHrV41OJRi4e2xYxUUgMGLNAmDy/Opg/EsL/QSh5v0weqDgSY8agD2wUQYAAUKyFbP8LJRAAAAABJRU5ErkJggg==",
+      "nationality": "it",
       "expcard": "12-12-2022",
       "expcert": "14-10-2019",
       "username": "giuseppe",
@@ -33,7 +33,7 @@
     {
       "idathlete": 103,
       "Name": "Chiara Verardo",
-      "Birth": "12-06-1998",
+      "Birth": "12-06-1980",
       "Sex": "F",
       "CardNo": 160048122,
       "note": null,
@@ -48,7 +48,7 @@
     {
       "idathlete": 104,
       "Name": "Laura Bianchi",
-      "Birth": "20-09-1996",
+      "Birth": "20-09-1971",
       "Sex": "F",
       "CardNo": 160084455,
       "note": null,
@@ -63,7 +63,7 @@
     {
       "idathlete": 105,
       "Name": "Cristiano Del Verde",
-      "Birth": "11-09-1999",
+      "Birth": "11-09-1968",
       "Sex": "M",
       "CardNo": 160084195,
       "note": null,
@@ -78,7 +78,7 @@
     {
       "idathlete": 106,
       "Name": "Angelo Duro",
-      "Birth": "16-04-1994",
+      "Birth": "16-04-1975",
       "Sex": "M",
       "CardNo": 160026458,
       "note": null,
@@ -93,7 +93,7 @@
     {
       "idathlete": 107,
       "Name": "Emanuele Paiano",
-      "Birth": "16-08-2001",
+      "Birth": "16-08-1980",
       "Sex": "M",
       "CardNo": 160059842,
       "note": null,
@@ -108,7 +108,7 @@
     {
       "idathlete": 108,
       "Name": "Diletta Cassiano",
-      "Birth": "14-02-1995",
+      "Birth": "14-02-1969",
       "Sex": "F",
       "CardNo": 160084444,
       "note": null,
@@ -123,7 +123,7 @@
     {
       "idathlete": 109,
       "Name": "Marco Pera",
-      "Birth": "01-02-1993",
+      "Birth": "01-02-1978",
       "Sex": "M",
       "CardNo": 160085998,
       "note": null,
@@ -138,7 +138,7 @@
     {
       "idathlete": 110,
       "Name": "Mariaclaudia Ferreri",
-      "Birth": "13-10-1998",
+      "Birth": "13-10-1971",
       "Sex": "F",
       "CardNo": 160085658,
       "note": null,
@@ -153,7 +153,7 @@
     {
       "idathlete": 111,
       "Name": "Marcello Peluso",
-      "Birth": "07-10-1995",
+      "Birth": "07-10-1978",
       "Sex": "M",
       "CardNo": 160085241,
       "note": null,
@@ -168,7 +168,7 @@
     {
       "idathlete": 112,
       "Name": "Giulia Casarano",
-      "Birth": "24-05-1996",
+      "Birth": "24-05-1976",
       "Sex": "F",
       "CardNo": 160082123,
       "note": null,
@@ -183,7 +183,7 @@
     {
       "idathlete": 113,
       "Name": "Roberto Longo",
-      "Birth": "02-12-1995",
+      "Birth": "02-12-1975",
       "Sex": "F",
       "CardNo": 160085612,
       "note": null,
@@ -198,7 +198,7 @@
     {
       "idathlete": 114,
       "Name": "Silvia Catanzaro",
-      "Birth": "01-06-2000",
+      "Birth": "01-06-1982",
       "Sex": "F",
       "CardNo": 160081214,
       "note": null,
@@ -213,7 +213,7 @@
     {
       "idathlete": 115,
       "Name": "Mirko Botrugno",
-      "Birth": "06-04-1997",
+      "Birth": "06-04-1969",
       "Sex": "M",
       "CardNo": 160082020,
       "note": null,
@@ -228,7 +228,7 @@
     {
       "idathlete": 116,
       "Name": "Alessio Greco",
-      "Birth": "26-04-1999",
+      "Birth": "26-04-1973",
       "Sex": "M",
       "CardNo": 160084558,
       "note": null,
@@ -243,7 +243,7 @@
     {
       "idathlete": 117,
       "Name": "Elisa Palma",
-      "Birth": "31-01-1991",
+      "Birth": "31-01-1979",
       "Sex": "F",
       "CardNo": 160082059,
       "note": null,
@@ -258,7 +258,7 @@
     {
       "idathlete": 118,
       "Name": "Filippo Rotelli",
-      "Birth": "08-10-2000",
+      "Birth": "08-10-1966",
       "Sex": "M",
       "CardNo": 160084444,
       "note": null,
@@ -273,7 +273,7 @@
     {
       "idathlete": 119,
       "Name": "Antonio Levoli",
-      "Birth": "11-10-1998",
+      "Birth": "11-10-1976",
       "Sex": "M",
       "CardNo": 160089999,
       "note": null,
@@ -288,7 +288,7 @@
     {
       "idathlete": 120,
       "Name": "Caterina Bissano",
-      "Birth": "09-09-1996",
+      "Birth": "09-09-1978",
       "Sex": "F",
       "CardNo": 160081111,
       "note": null,
